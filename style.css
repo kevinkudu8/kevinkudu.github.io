@@ -107,19 +107,19 @@ line-height: 14px;
 }
 <style>
 a:link {
-  color: black;
+  color: #000000;
   background-color: transparent;
   text-decoration: none;
 }
 
 a:visited {
-  color: black;
+  color: #000000;
   background-color: transparent;
   text-decoration: none;
 }
 
 a:hover {
-  color: red;
+  color: #000000;
   background-color: #76ffe1;
   text-decoration: underline;
 }
