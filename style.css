@@ -119,13 +119,13 @@ a:visited {
 }
 
 a:hover {
-  color: black;
+  color: red;
   background-color: #76ffe1;
   text-decoration: underline;
 }
 
 a:active {
-  color: yellow;
+  color: red;
   background-color: transparent;
   text-decoration: underline;
 }
